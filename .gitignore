@@ -1,0 +1,7 @@
+node_modules
+.idea
+tmp
+*.js
+*.map
+*.blend1
+bower_components
